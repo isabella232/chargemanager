@@ -61,7 +61,7 @@ ul.banner-social-buttons, ol.banner-social-buttons {
     vertical-align: baseline;
 }
 
-.banner-social-buttons li {
+ul.banner-social-buttons li {
     padding-bottom: 10px;
 }
 
