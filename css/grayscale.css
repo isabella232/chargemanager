@@ -51,6 +51,10 @@ a:focus {
     color: #176e61;
 }
 
+ul.banner-social-buttons, ol.banner-social-buttons {
+    list-style-type: none;
+}
+
 .light {
     font-weight: 400;
 }
