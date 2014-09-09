@@ -53,6 +53,12 @@ a:focus {
 
 ul.banner-social-buttons, ol.banner-social-buttons {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
 
 .light {
